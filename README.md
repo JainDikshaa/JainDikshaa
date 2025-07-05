@@ -42,7 +42,7 @@
 ---
 
 ### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jaindikshaa/)  
 📫 Feel free to DM me for collaborations, hackathons, or just to say hi!
 
 ---
